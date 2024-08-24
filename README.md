@@ -20,7 +20,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-![Screenshot](https://raw.githubusercontent.com/mariopino/ethereum-coinflip/master/screenshot.png)
+![Screenshot](https://drive.google.com/file/d/1FqOXbMos5LSueqHI6iSM8jG875nPSJ9T/view?usp=drive_link)
 
 # Ethereum coin flip game
 
