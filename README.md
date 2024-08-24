@@ -38,7 +38,15 @@ Players start with 100 tokens, which can be purchased using Ethereum. The game o
 
 ## How to play
 
-You must install [Metamask](https://metamask.io/) in your browser in order to play the game. Currently we are testing in Sepolia ethereum test network so be sure to select it when setup Metamask.
+- You must install [Metamask](https://metamask.io/) in your browser in order to play the game and connect it with your wallet. Currently we are testing in Sepolia ethereum test network so be sure to select it when setup Metamask.
+- Click "Connect to Wallet" in the UI to access the - game panel.
+- Transfer 100 tokens (default purchase value) from the MetaMask wallet by clicking "Get Coins."
+- Choose a bet option: heads or tails.
+- The game automatically fetches 10 tokens for each bet.
+- Click "Flip Coin" to initiate the coin flip.
+     - If the bet is won, the tokens are doubled.
+     - If the bet is lost, the bet tokens are     forfeited.
+- Repeat the process to continue playing the game.
 
 ## No funds to play?
 
