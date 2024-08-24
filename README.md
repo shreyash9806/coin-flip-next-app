@@ -16,11 +16,12 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-![Screenshot](https://drive.google.com/file/d/1FqOXbMos5LSueqHI6iSM8jG875nPSJ9T/view?usp=drive_link)
+![Screenshot](https://github.com/user-attachments/assets/d3953e15-f5b5-4003-bdc8-dd0277eeec45)
 
 # Ethereum coin flip game
 
