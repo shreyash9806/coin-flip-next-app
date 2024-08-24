@@ -30,7 +30,8 @@ The coin flip Ethereum web app is built using Next.js for server-side rendering 
 
 ## Demo
 
-https://coin-flip-next-app.vercel.app/
+https://coin-flip-next-app.vercel.app/ 
+[Video Demonstration](https://drive.google.com/file/d/1XPlsR2Ao1iVQ9A85r4h-zy-pCk7AYwIB/view?usp=sharing)
 
 ## The game
 
