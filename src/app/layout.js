@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Coinflip App",
-  description: "Created by Metarizz, Ali Solanki",
+  title: "Coin flip Blockchain App",
+  description: "Created by Shreyash Kumar",
 };
 
 export default function RootLayout({ children }) {
